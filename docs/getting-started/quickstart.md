@@ -531,7 +531,7 @@ feast ui
 You can also specify the host and port to everride defaults.
 
 ```bash
-feast ui -p x.x.x.x -h xxxx
+feast ui -h x.x.x.x -p xxxx
 ```
 
 {% endtab %}
