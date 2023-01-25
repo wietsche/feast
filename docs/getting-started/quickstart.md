@@ -528,7 +528,7 @@ One of the ways to view this is with the `feast ui` command.
 ```bash
 feast ui
 ```
-You can also specify the host and port to everride defaults.
+One can also specify the host and port to override defaults.
 
 ```bash
 feast ui -h x.x.x.x -p xxxx
