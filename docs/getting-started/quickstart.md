@@ -528,6 +528,12 @@ One of the ways to view this is with the `feast ui` command.
 ```bash
 feast ui
 ```
+You can also specify the host and port to everride defaults.
+
+```bash
+feast ui -p x.x.x.x -h xxxx
+```
+
 {% endtab %}
 {% endtabs %}
 
